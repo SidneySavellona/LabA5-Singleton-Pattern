@@ -1,0 +1,1 @@
+# LabA5-Singleton-Pattern
