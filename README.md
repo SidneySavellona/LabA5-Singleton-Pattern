@@ -13,4 +13,5 @@ Problem statement (description of the problem. Just copy what is stated here).
 UML Class Diagram
 Uploaded java codes for the solution.
 
-![Uploading UML Singleton Pattern.png…]()
+
+![UML Singleton Pattern](https://github.com/user-attachments/assets/d096448d-aa09-4eee-9b96-3e6b5289a2b6)
